@@ -1,7 +1,7 @@
 # Unity_DOTween_Tools
 Make your UI pop with easy to implement animations!
 
-Download DOTween <a href='https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676'>DOTween Link!</a>
+Download <a href='https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676'>DOTween</a> here!
 
 /DOTween (Folder): Contains the base framework for lean tween! You can also get it for free from the Unity Asset Store <br>
 /DOTween Tools (Folder): Contains the 3 scripts to use in your UI, or other areas that you may find it useful in your project :D <br>
