@@ -3,7 +3,7 @@ Make your UI pop with easy to implement animations!
 
 Download <a href='https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676'>DOTween</a> here!
 
-/DOTween (Folder): Contains the base framework for lean tween! You can also get it for free from the Unity Asset Store <br>
+/Plugin (Folder): Contains the base framework for lean tween! You can also get it for free from the Unity Asset Store <br>
 /DOTween Tools (Folder): Contains scripts to use in your UI, or other areas that you may find it useful in your project :D <br>
 
 # Make your UI Pop!
@@ -29,7 +29,7 @@ Download <a href='https://assetstore.unity.com/packages/tools/animation/dotween-
 - Set to deactivate whatever you want on the close event
 
 ## DOTweenPopUp.cs
-- Similar to TweenerAnimation, will Open the desired card (Good for notification Pop Ups or DamageTexts) and close after a desired time!
+- Similar to DOTweenAnim, will Open the desired card (Good for notification Pop Ups or DamageTexts) and close after a desired time!
 
 ### Example: <br>
 ![](Screenshots/PopUp.png)
